@@ -222,4 +222,8 @@ http://fcon_1000.projects.nitrc.org/indi/cmi_healthy_brain_network/sharing_neuro
 https://github.com/hubandad/eegdataset/ 欢迎大家协作更新。
 
 
+This article original published on 'psybrain' （WeChat mini program） 
+
 latested update 27th may,2021
+
+
