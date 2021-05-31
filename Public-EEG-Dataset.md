@@ -225,6 +225,6 @@ https://github.com/hubandad/eegdataset/ 欢迎大家协作更新。
 
 📌This article original published on 'psybrain' （WeChat mini program） 
 
-✔latested update 27th may,2021
+✔latested update 31th may,2021
 
 
